@@ -49,7 +49,7 @@
 	</script>
 </head>
 <body>
-	<h1 class="bg-success">VN-book</h1>
+	<h1 class="bg-success">VIDA NUEVA BOOK</h1>
 
 	<div class="container">
 
